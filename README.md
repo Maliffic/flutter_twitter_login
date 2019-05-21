@@ -1,4 +1,4 @@
-# flutter_twitter_login
+# flutter_twitter
 
 [![pub package](https://img.shields.io/pub/v/flutter_twitter_login.svg)](https://pub.dartlang.org/packages/flutter_twitter_login)
  [![Build Status](https://travis-ci.org/roughike/flutter_twitter_login.svg?branch=master)](https://travis-ci.org/roughike/flutter_twitter_login)
